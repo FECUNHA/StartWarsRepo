@@ -1,2 +1,2 @@
-primeira linha teste
+primeira linha teste conflito
 feature001
